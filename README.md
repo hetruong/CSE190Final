@@ -1,6 +1,7 @@
-#Path Planning Algorithms
+Henry Truong's CSE 190 Final.
 
-In this assignment you need to implement:
+Code Designed for this project: myconfig1.json, myconfig2.json, myconfig3.json, robot.py, qLearning.py
 
-1. **A Star Search Algorithm** - To find an efficient path from the starting position to the goal.
-2. **Value Iteration (Markov Decision Process)** - To find the optimal policy at each point in the grid, maximizing based on the rewards.# CSE190Final
+Code Designed for PA3: mdp.py, astar.py
+
+Rest of the files were provided by the CSE 190 Staff.
